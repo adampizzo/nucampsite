@@ -110,8 +110,11 @@ dist
 # WebStorm
 .idea
 
-#DS_Store
+# DS_Store
 .DS_Store
 
-#Workshop Files
+# Workshop Files
 workshops
+
+# Distribution Files
+dist
