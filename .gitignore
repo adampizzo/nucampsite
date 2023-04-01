@@ -118,3 +118,6 @@ workshops
 
 # Distribution Files
 dist
+
+# Node Package Lock File
+package-lock-json
